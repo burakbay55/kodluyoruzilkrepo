@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 <br>
 
-**[MIT]https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt**.
+**[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt**)
