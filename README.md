@@ -4,7 +4,5 @@ Kodluyoruz Eğitimi kapsamında açtığım repo, içinde bir adet readme dosyas
 ## Installation
 Öncelikle projeyi klonlayın.
 
-'''
-[git clone](https://github.com/burakbay55/kodluyoruzilkrepo)
-'''
+> git clone https://github.com/burakbay55/kodluyoruzilkrepo
 
