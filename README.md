@@ -5,4 +5,13 @@ Kodluyoruz Eğitimi kapsamında açtığım repo, içinde bir adet readme dosyas
 Öncelikle projeyi klonlayın.
 
 > git clone https://github.com/burakbay55/kodluyoruzilkrepo
+>
 
+## Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+
+> cd kodluyoruzilkrepo
+  code .
