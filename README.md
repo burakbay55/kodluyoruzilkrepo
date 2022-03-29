@@ -13,5 +13,17 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-> cd kodluyoruzilkrepo
+> cd kodluyoruzilkrepo <br>
   code .
+
+
+## Contributing
+<br>
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+<br>
+
+## License
+<br>
+
+**[MIT]https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt**
