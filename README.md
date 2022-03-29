@@ -1,6 +1,10 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım repo, içinde bir adet readme dosyası ve index.html barındırıyor.
 
+<br>
+
+[![image](https://r.resimlink.com/9onsl.png)](https://resimlink.com/9onsl)
+
 ## Installation
 Öncelikle projeyi klonlayın.
 
@@ -26,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 <br>
 
-**[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt**)
+[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt**)
